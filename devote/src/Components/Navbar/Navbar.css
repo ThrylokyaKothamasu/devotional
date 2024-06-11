@@ -29,18 +29,16 @@
 }
 
 .button-81 {
-    background-color: #fff;
+    font-family: 'Poetsen One', sans-serif;
     border: 0 solid #e2e8f0;
     border-radius: 1.5rem;
     box-sizing: border-box;
-    color: #0d172a;
     cursor: pointer;
     display: inline-block;
-    font-family: "Basier circle", -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-    font-size: 1.1rem;
+    font-size: 40px;
     font-weight: 600;
     line-height: 1;
-    padding: 1rem 1.6rem;
+    padding: 1rem 1rem;
     text-align: center;
     text-decoration: none #0d172a solid;
     text-decoration-thickness: auto;
@@ -50,6 +48,7 @@
     -webkit-user-select: none;
     touch-action: manipulation;
     margin: 5px;
+    color:#800000;
 }
 
 .button-81:hover {

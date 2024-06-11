@@ -25,11 +25,7 @@ export default function About() {
                 <p><strong>Regular Updates</strong>: Stay engaged with regular updates and additions to our content, ensuring a continuously enriching experience.</p>
             </div>
             <h3 className='subhead'>Contributers</h3>
-            <div className='contri'><img src={g} alt="logo" className="i"/><br />
-                    <strong>Name</strong>: XXXXXXXXX<br />
-                    <strong>Email Id</strong>: abcd@gmail.com<br/>
-                   <strong> Contact No</strong>: xxxxxxxxxx
-            </div>
+            
             <div className='contri'><img src={g} alt="logo" className="i"/><br />
                     <strong>Name</strong>: XXXXXXXXX<br />
                     <strong>Email Id</strong>: abcd@gmail.com<br/>
